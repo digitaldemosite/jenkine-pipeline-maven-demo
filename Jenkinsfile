@@ -21,7 +21,7 @@ pipeline {
                 axes {
                     axis {
                         name "JAVA"
-                        values "11.0.7-amzn", "8.0.252-open", "15.ea.26-open"
+                        values "11.0.7-amzn", "9.0.4-open", "14.0.1-open"
                     }
                     axis {
                         name "MAVEN"
